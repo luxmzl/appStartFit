@@ -10,3 +10,4 @@ Por lo tanto, surge la necesidad de desarrollar StartFit donde se resuelvan esto
 # Análisis de requerimiento
 El sistema de gestión de gimnasios debe permitir el control eficiente de usuarios, membresías y asistencias, facilitando el registro de sesiones de entrenamiento con coaches. Debe integrar pagos en línea con generación automática de recibos y notificaciones de vencimientos. Además, debe ofrecer una plataforma de comunicación eficaz con notificaciones en tiempo real, permitir reservas de clases y brindar acceso a reportes de progreso, optimizando la experiencia del usuario y la operatividad del gimnasio.
 ## Modelo relacion en MYSQL
+![image]
