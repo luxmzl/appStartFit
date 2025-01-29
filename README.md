@@ -30,24 +30,24 @@ StartFit es una plataforma que busca centralizar la gestión de los usuarios de 
 
 1. Gestión de Membresías: La aplicación debe permitir a los usuarios seleccionar entre diferentes planes de membresía (mensual, trimestral, anual, etc.), gestionar sus pagos y recibir notificaciones sobre la caducidad de su plan.
 
-- Planes personalizados: Los usuarios podrán seleccionar el plan que mejor se ajuste a sus necesidades, con opciones de pago en línea.
-- Historial de membresías: Cada usuario podrá consultar su historial de planes, pagos y la duración de sus membresías, lo que permite un control claro de su actividad.
+ - Planes personalizados: Los usuarios podrán seleccionar el plan que mejor se ajuste a sus necesidades, con opciones de pago en línea.
+ - Historial de membresías: Cada usuario podrá consultar su historial de planes, pagos y la duración de sus membresías, lo que permite un control claro de su actividad.
 2. Entrenamientos Personalizados: Los usuarios podrán contratar entrenadores específicos para sesiones personalizadas según sus objetivos de fitness.
 
-- Selección de entrenadores: La aplicación debe mostrar perfiles detallados de entrenadores con su especialidad, horarios disponibles y precios por sesión.
-- Contratación de sesiones: Los usuarios pueden reservar entrenamientos, gestionar sus horarios y recibir recordatorios sobre sus sesiones.
+ - Selección de entrenadores: La aplicación debe mostrar perfiles detallados de entrenadores con su especialidad, horarios disponibles y precios por sesión.
+ - Contratación de sesiones: Los usuarios pueden reservar entrenamientos, gestionar sus horarios y recibir recordatorios sobre sus sesiones.
 3. Pago en Línea y Gestión Financiera: La plataforma debe permitir realizar pagos de manera segura y acceder a un historial de transacciones para la correcta gestión de la membresía y servicios adicionales.
 
-- Plataforma de pagos: Debe integrarse una pasarela de pago segura que facilite el proceso de compra para los usuarios.
-- Historial de pagos: Los usuarios podrán ver y gestionar los pagos realizados, permitiendo un control financiero transparente.
+ - Plataforma de pagos: Debe integrarse una pasarela de pago segura que facilite el proceso de compra para los usuarios.
+ - Historial de pagos: Los usuarios podrán ver y gestionar los pagos realizados, permitiendo un control financiero transparente.
 4. Navegación Intuitiva: El diseño de la aplicación está enfocado en la facilidad de uso, incluso para usuarios sin experiencia en plataformas digitales.
 
-- Interfaz amigable: La plataforma estará organizada de manera lógica, con un acceso rápido a las funciones clave, como la gestión de membresías y la contratación de entrenadores.
-- Botones de navegación claros: Indicadores visuales y enlaces bien definidos que guiarán al usuario por las secciones más importantes.
+ - Interfaz amigable: La plataforma estará organizada de manera lógica, con un acceso rápido a las funciones clave, como la gestión de membresías y la contratación de entrenadores.
+ - Botones de navegación claros: Indicadores visuales y enlaces bien definidos que guiarán al usuario por las secciones más importantes.
 5. Perfil de Usuario Completo: Cada usuario tendrá un perfil donde se almacenará toda su información relevante, como datos personales, historial de pagos y entrenamientos realizados.
 
-- Gestión de datos personales: Los usuarios podrán actualizar su información personal, como nombre, dirección y detalles de contacto.
-- Información detallada: El perfil mostrará el progreso del usuario en términos de entrenamientos y la duración de sus membresías.
+ - Gestión de datos personales: Los usuarios podrán actualizar su información personal, como nombre, dirección y detalles de contacto.
+ - Información detallada: El perfil mostrará el progreso del usuario en términos de entrenamientos y la duración de sus membresías.
 
 ## Impacto de Funcionalidades:
 Estas características están diseñadas para mejorar la experiencia del usuario y optimizar la gestión administrativa en los gimnasios. Al proporcionar una interfaz intuitiva, herramientas personalizadas para el manejo de entrenamientos y pagos, y opciones flexibles de membresía, StartFit se posiciona como una solución integral para gimnasios que buscan ofrecer un servicio más eficiente y personalizado. Esta aplicación no solo simplificará las operaciones internas, sino que también contribuirá a mejorar la experiencia de los clientes, fomentando su fidelización.
