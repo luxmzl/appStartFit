@@ -9,7 +9,7 @@ El propósito principal de StartFit es ofrecer una plataforma digital completa q
 
 ## Objetivos
 
-- **Mejorar la gestión de los gimnasios:*** Proporcionar una plataforma que centralice la información de usuarios, planes de membresía y pagos, optimizando los procesos administrativos y facilitando la gestión de los gimnasios.
+- ***Mejorar la gestión de los gimnasios:*** Proporcionar una plataforma que centralice la información de usuarios, planes de membresía y pagos, optimizando los procesos administrativos y facilitando la gestión de los gimnasios.
 
 - ***Facilitar la personalización del entrenamiento:*** Ofrecer a los usuarios la opción de seleccionar y contratar sesiones de entrenamiento personalizadas con entrenadores certificados, adaptando los entrenamientos a las necesidades y objetivos específicos de cada persona.
 
