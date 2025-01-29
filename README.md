@@ -22,12 +22,35 @@ En la actualidad, muchos gimnasios carecen de herramientas digitales eficientes 
 
 ## Justificación del Proyecto
 El desarrollo de StartFit resuelve el problema de la dispersión de datos y la falta de eficiencia administrativa en los gimnasios, al ofrecer una plataforma integral que centraliza la información de los usuarios y optimiza el acceso a servicios personalizados. Con esta aplicación, los gimnasios pueden mejorar su gestión administrativa y ofrecer un servicio más adaptado a las necesidades de los usuarios. Además, proporciona una experiencia de usuario fluida y un sistema de pago seguro, lo que contribuye a incrementar la satisfacción y fidelidad de los clientes.
-# Contexto del problema
-La gestión tradicional de gimnasios enfrenta diversos desafíos operativos y administrativos, como el desorden en el control de usuarios, el manejo manual de pagos y asistencias, y la falta de una plataforma eficiente de comunicación con los miembros. Los sistemas basados en papel o aplicaciones no integradas generan errores, pérdida de información y retrasos en la actualización de membresías. Los clientes buscan mayor comodidad, como pagos en línea, reservas de clases y acceso a su historial de progreso. Además, una solución moderna permitirá registrar sesiones de entrenamiento con coaches por día, semana o mes, mejorando la experiencia del usuario y la eficiencia operativa.
 
-Por lo tanto, surge la necesidad de desarrollar StartFit donde se resuelvan estos desafíos. Esta aplicación debe integrar funcionalidades como el registro y seguimiento de usuarios, la automatización de pagos, la gestión de reservas y clases, y la generación de reportes en tiempo real. Además, debe ofrecer una experiencia intuitiva tanto para los clientes como para los administradores, asegurando una gestión más eficiente y moderna de los servicios del gimnasio.
-# Análisis de requerimiento
-El sistema de gestión de gimnasios debe permitir el control eficiente de usuarios, membresías y asistencias, facilitando el registro de sesiones de entrenamiento con coaches. Debe integrar pagos en línea con generación automática de recibos y notificaciones de vencimientos. Además, debe ofrecer una plataforma de comunicación eficaz con notificaciones en tiempo real, permitir reservas de clases y brindar acceso a reportes de progreso, optimizando la experiencia del usuario y la operatividad del gimnasio.
+## Análisis de Requerimientos
+StartFit es una plataforma que busca centralizar la gestión de los usuarios de gimnasios, permitiendo administrar planes de membresía, pagos y la contratación de entrenadores para sesiones personalizadas. Para lograr su funcionamiento óptimo, es crucial definir detalladamente los requerimientos del sistema, la gestión de datos y la lógica de negocio que permitirá la personalización de la experiencia para los usuarios. A continuación, se presenta un análisis detallado que cubre los requerimientos funcionales y no funcionales, garantizando que el sistema sea eficiente y fácil de usar.
+
+## Funcionalidades Clave:
+
+1. Gestión de Membresías: La aplicación debe permitir a los usuarios seleccionar entre diferentes planes de membresía (mensual, trimestral, anual, etc.), gestionar sus pagos y recibir notificaciones sobre la caducidad de su plan.
+
+- Planes personalizados: Los usuarios podrán seleccionar el plan que mejor se ajuste a sus necesidades, con opciones de pago en línea.
+- Historial de membresías: Cada usuario podrá consultar su historial de planes, pagos y la duración de sus membresías, lo que permite un control claro de su actividad.
+2. Entrenamientos Personalizados: Los usuarios podrán contratar entrenadores específicos para sesiones personalizadas según sus objetivos de fitness.
+
+- Selección de entrenadores: La aplicación debe mostrar perfiles detallados de entrenadores con su especialidad, horarios disponibles y precios por sesión.
+- Contratación de sesiones: Los usuarios pueden reservar entrenamientos, gestionar sus horarios y recibir recordatorios sobre sus sesiones.
+3. Pago en Línea y Gestión Financiera: La plataforma debe permitir realizar pagos de manera segura y acceder a un historial de transacciones para la correcta gestión de la membresía y servicios adicionales.
+
+- Plataforma de pagos: Debe integrarse una pasarela de pago segura que facilite el proceso de compra para los usuarios.
+- Historial de pagos: Los usuarios podrán ver y gestionar los pagos realizados, permitiendo un control financiero transparente.
+4. Navegación Intuitiva: El diseño de la aplicación está enfocado en la facilidad de uso, incluso para usuarios sin experiencia en plataformas digitales.
+
+- Interfaz amigable: La plataforma estará organizada de manera lógica, con un acceso rápido a las funciones clave, como la gestión de membresías y la contratación de entrenadores.
+- Botones de navegación claros: Indicadores visuales y enlaces bien definidos que guiarán al usuario por las secciones más importantes.
+5. Perfil de Usuario Completo: Cada usuario tendrá un perfil donde se almacenará toda su información relevante, como datos personales, historial de pagos y entrenamientos realizados.
+
+- Gestión de datos personales: Los usuarios podrán actualizar su información personal, como nombre, dirección y detalles de contacto.
+- Información detallada: El perfil mostrará el progreso del usuario en términos de entrenamientos y la duración de sus membresías.
+
+## Impacto de Funcionalidades:
+Estas características están diseñadas para mejorar la experiencia del usuario y optimizar la gestión administrativa en los gimnasios. Al proporcionar una interfaz intuitiva, herramientas personalizadas para el manejo de entrenamientos y pagos, y opciones flexibles de membresía, StartFit se posiciona como una solución integral para gimnasios que buscan ofrecer un servicio más eficiente y personalizado. Esta aplicación no solo simplificará las operaciones internas, sino que también contribuirá a mejorar la experiencia de los clientes, fomentando su fidelización.
 ## Modelo relacion en MYSQL
 ![image](https://github.com/luxmzl/appGymHub/blob/main/GYMHUB.PNG)
 
