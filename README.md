@@ -56,6 +56,6 @@ StartFit es una plataforma que busca centralizar la gestión de los usuarios de 
 ## Impacto de Funcionalidades:
 Estas características están diseñadas para mejorar la experiencia del usuario y optimizar la gestión administrativa en los gimnasios. Al proporcionar una interfaz intuitiva, herramientas personalizadas para el manejo de entrenamientos y pagos, y opciones flexibles de membresía, StartFit se posiciona como una solución integral para gimnasios que buscan ofrecer un servicio más eficiente y personalizado. Esta aplicación no solo simplificará las operaciones internas, sino que también contribuirá a mejorar la experiencia de los clientes, fomentando su fidelización.
 ## Modelo relacion en MYSQL
-![image](https://github.com/luxmzl/appGymHub/blob/main/GYMHUB.PNG)
+![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
 
 
