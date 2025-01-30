@@ -58,3 +58,4 @@ Estas características están diseñadas para mejorar la experiencia del usuario
 ## Modelo relacion en MYSQL
 ![image](https://github.com/luxmzl/appGymHub/blob/main/GYMHUB.PNG)
 
+
