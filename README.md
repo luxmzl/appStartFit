@@ -58,4 +58,8 @@ Estas características están diseñadas para mejorar la experiencia del usuario
 ## Modelo relacion en MYSQL
 ![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
 
+## Tablas Principales
+1. Clientes
+2. 
+
 
