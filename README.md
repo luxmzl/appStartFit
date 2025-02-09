@@ -59,7 +59,11 @@ Estas características están diseñadas para mejorar la experiencia del usuario
 ![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
 
 ## Tablas Principales
-1. Clientes
-2. 
+1. **Clientes**: Esta tabla almacena la información personal de los clientes del gimnasio, incluyendo sus datos de contacto y el estado de su membresía.
+2. **Training**: Aquí se registran los entrenamientos realizados por los clientes, asociándolos con una sección específica del gimnasio y registrando detalles como la duración del entrenamiento.
+3. **Membresía**: Esta tabla contiene los planes de membresía adquiridos por los clientes, con detalles sobre su tipo, fecha de inicio, vencimiento y beneficios incluidos.
+4. **Facturas**: En esta tabla se almacenan las facturas generadas para los clientes, registrando la fecha de emisión, el monto total y el estado de pago.
+5. **Secciones de entrenamiento**:Aquí se gestionan las distintas áreas del gimnasio, como pesas, cardio o entrenamiento funcional, con información sobre disponibilidad de sesiones de entrenamiento.
+6. **Tipos de pago**:Esta tabla define los distintos métodos de pago aceptados en el gimnasio, incluyendo opciones como efectivo, tarjeta y transferencias bancarias.
 
 
