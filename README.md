@@ -61,4 +61,8 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 5. **Secciones de entrenamiento**:Aquí se gestionan las distintas áreas del gimnasio, como pesas, cardio o entrenamiento funcional, con información sobre disponibilidad de sesiones de entrenamiento.
 6. **Tipos de pago**:Esta tabla define los distintos métodos de pago aceptados en el gimnasio, incluyendo opciones como efectivo, tarjeta y transferencias bancarias.
 
+## Script del modelo físico: Archivo SQL con las sentencias para crear las tablas y relaciones en MySQL. 
+[Descargar Manual](https://raw.githubusercontent.com/usuario/repositorio/main/docs/manual.pdf)
+
+
 
