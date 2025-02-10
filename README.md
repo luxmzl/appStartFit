@@ -62,7 +62,7 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 6. **Tipos de pago**:Esta tabla define los distintos métodos de pago aceptados en el gimnasio, incluyendo opciones como efectivo, tarjeta y transferencias bancarias.
 
 ## Script del modelo físico: Archivo SQL con las sentencias para crear las tablas y relaciones en MySQL. 
-[Descargar Manual](https://raw.githubusercontent.com/usuario/repositorio/main/docs/manual.pdf)
+[ABRIRl]([https://raw.githubusercontent.com/usuario/repositorio/main/docs/manual.pdf](https://github.com/luxmzl/appGymHub/blob/main/EXAMEN%20ABP%20GYMHUB%20(1).sql))
 
 
 
