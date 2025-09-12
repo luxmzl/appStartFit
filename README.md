@@ -1,29 +1,34 @@
-# STARTFIT
-Aplicación de membresía de gimnasio
 # StartFit
+Aplicación de Gestión de Clientes y Membresías de Gimnasio
+
 ## Introducción
-StartFit es una aplicación web diseñada para optimizar el registro y gestión de clientes en gimnasios. Su objetivo es simplificar el almacenamiento de información personal de los usuarios y permitirles decidir si desean contratar sesiones de entrenamiento personalizadas. Esta plataforma facilita la inscripción de nuevos clientes y la selección de entrenadores de acuerdo con sus necesidades.
+StartFit es una aplicación web que permite a los gimnasios gestionar fácilmente el registro de clientes y sus membresías. Su objetivo es simplificar la administración de usuarios, permitiendo agregar, buscar, actualizar o eliminar clientes y asignarles un plan de membresía con precios definidos de forma automática.
 
 ## Propósito
-El propósito principal de StartFit en esta versión es proporcionar una solución eficiente para el registro de clientes en gimnasios y permitirles elegir si desean recibir entrenamiento personalizado. Con esta herramienta, los gimnasios podrán centralizar la información de sus usuarios y mejorar la experiencia de quienes buscan un servicio adaptado a sus objetivos de fitness.
+El propósito de StartFit es centralizar y automatizar el proceso de gestión de clientes en gimnasios, vinculando a cada usuario con un tipo de membresía que determine su precio, para optimizar el control de inscripciones y facilitar las tareas administrativas.
+
 ## Objetivos
 
-- ***Optimizar el registro de clientes:*** Agilizar el proceso de inscripción, almacenando datos personales de manera segura y organizada.
+- ***Registrar clientes de forma eficiente:*** Agilizar el proceso de inscripción, almacenando datos personales de manera segura y organizada.-
 
-- ***Facilitar la contratación de entrenamientos personalizados:*** Permitir a los usuarios decidir si desean recibir entrenamiento personalizado y seleccionar un entrenador según sus preferencias.
+- ***Asignación automática de precios:*** Asociar cada cliente con un plan (mensual, trimestral o anual) que tenga un precio predefinido.-
 
-- ***Ofrecer una experiencia de usuario intuitiva:*** Diseñar una interfaz clara y accesible que facilite el registro y la elección de sesiones de entrenamiento.- 
+- ***Editar y eliminar clientes:*** Permitir actualizar la información de un cliente o eliminarlo de la base de datos.-
+- 
+- ***Sincronizar con MySQL:*** Reflejar automáticamente todos los cambios en la base de datos.- 
+
 
 ## Contexto del Problema
-En la actualidad, muchos gimnasios carecen de herramientas digitales eficientes para gestionar la información de sus usuarios de forma centralizada y automatizada. Esta falta de infraestructura digital adecuada puede generar problemas en la administración de membresías, pagos y la planificación de entrenamientos personalizados. Con el aumento de la demanda por servicios especializados y más accesibles, se hace necesario contar con una plataforma que centralice todos estos procesos y brinde una experiencia optimizada para los usuarios.
+La mayoría de gimnasios pequeños gestionan sus usuarios de forma manual, provocando errores en los registros, dificultad para actualizar datos y falta de control de las membresías activas. Esto genera confusión y pérdida de tiempo. StartFit resuelve este problema al automatizar todo el proceso desde un único sistema conectado a MySQL.
 
 ## Justificación del Proyecto
-El desarrollo de StartFit resuelve el problema de la dispersión de datos y la falta de eficiencia administrativa en los gimnasios, al ofrecer una plataforma integral que centraliza la información de los usuarios y optimiza el acceso a secciones de entrenamiento. Con esta aplicación, los gimnasios pueden mejorar su gestión administrativa y ofrecer un servicio más adaptado a las necesidades de los usuarios. Además, proporciona una experiencia de usuario fluida, lo que contribuye a incrementar la satisfacción y fidelidad de los clientes.
+StartFit permite digitalizar y centralizar el control de clientes en un gimnasio, vinculando sus datos personales con planes de membresía predefinidos. Esto reduce los errores, mejora el control de pagos y acelera los procesos de registro, edición y eliminación de usuarios, contribuyendo a una administración más eficiente.
 
 ## Análisis de Requerimientos
-StartFit es una plataforma que busca centralizar la gestión de los usuarios de gimnasios, permitiendo administrar su registro y la selección de secciones de entrenamiento. Para lograr su funcionamiento óptimo, es crucial definir detalladamente los requerimientos del sistema, la gestión de datos y la lógica de negocio que permitirá la personalización de la experiencia para los usuarios. A continuación, se presenta un análisis detallado que cubre los requerimientos funcionales y no funcionales, garantizando que el sistema sea eficiente y fácil de usar..
-
-## Funcionalidades Clave:
+## Requerimientos funcionales:
+-*Requerimientos funcionales*-
+-*Requerimientos funcionales*-
+-*Requerimientos funcionales***-
 
 ### Funcionalidades Clave
 
