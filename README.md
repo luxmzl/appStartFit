@@ -54,14 +54,14 @@ StartFit permite digitalizar y centralizar el control de clientes en un gimnasio
 Con esta implementación, los gimnasios podrán gestionar de manera eficiente la información de sus clientes y ofrecer la opción de elegir áreas de entrenamiento de manera organizada. La digitalización del registro mejorará la administración interna y la satisfacción de los clientes al brindarles una plataforma accesible y funcional.
 
 ## Modelo relacion en MYSQL
-Modelo Relacional en MySQL
-Tablas Principales
-clientes
-id_cliente (PK)
-nombre
-edad
-contacto
-id_membresia (FK)
+**Tablas Principales**
+-clientes
+-id_cliente (PK)
+-nombre
+-edad
+-contacto
+-id_membresia (FK)
+
 ![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
 
 ## Tablas Principales
