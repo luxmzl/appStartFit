@@ -14,7 +14,7 @@ El propósito de StartFit es centralizar y automatizar el proceso de gestión de
 - ***Asignación automática de precios:*** Asociar cada cliente con un plan (mensual, trimestral o anual) que tenga un precio predefinido.-
 
 - ***Editar y eliminar clientes:*** Permitir actualizar la información de un cliente o eliminarlo de la base de datos.-
-- 
+  
 - ***Sincronizar con MySQL:*** Reflejar automáticamente todos los cambios en la base de datos.- 
 
 
@@ -26,9 +26,11 @@ StartFit permite digitalizar y centralizar el control de clientes en un gimnasio
 
 ## Análisis de Requerimientos
 ## Requerimientos funcionales:
--*Requerimientos funcionales*-
--*Requerimientos funcionales*-
--*Requerimientos funcionales***-
+- Registrar nuevos clientes con sus datos personales y su membresía.
+- Buscar clientes registrados por nombre o ID.
+- Editar la información de un cliente y su tipo de membresía.
+- Eliminar registros de clientes.
+- Calcular automáticamente el precio de acuerdo con el tipo de membresía seleccionada.
 
 ### Funcionalidades Clave
 
