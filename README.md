@@ -55,12 +55,16 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 
 ## Modelo relacion en MYSQL
 **Tablas Principales**
-- clientes
+1. **Clientes**
 - id_cliente (PK)
 - nombre
 - edad
 - contacto
 - id_membresia (FK)
+2. **membresias**
+-  id_membresia (PK)
+-  tipo (Mensual, Trimestral, Anual)
+-  precio
 
 ![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
 
