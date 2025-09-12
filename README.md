@@ -6,7 +6,7 @@ El propósito de StartFit es centralizar y automatizar el proceso de gestión de
 
 ## Objetivos
 
-- ***-Registrar clientes de forma eficiente:*** Agilizar el proceso de inscripción, almacenando datos personales de manera segura y organizada.-
+- ***Registrar clientes de forma eficiente:*** Agilizar el proceso de inscripción, almacenando datos personales de manera segura y organizada.-
 
 - ***Asignación automática de precios:*** Asociar cada cliente con un plan (mensual, trimestral o anual) que tenga un precio predefinido.-
 
