@@ -61,7 +61,7 @@ StartFit permite digitalizar y centralizar el control de clientes en un gimnasio
    - Gestión de datos personales: Los usuarios podrán actualizar su información personal, como nombre y detalles de contacto.
    
 ## Impacto de Funcionalidades:
-Con esta implementación, los gimnasios podrán gestionar de manera eficiente la información de sus clientes y ofrecer la opción de elegir áreas de entrenamiento de manera organizada. La digitalización del registro mejorará la administración interna y la satisfacción de los clientes al brindarles una plataforma accesible y funcional.
+La implementación de las funcionalidades de StartFit tendrá un impacto directo en la eficiencia administrativa de los gimnasios y en la experiencia de los usuarios finales.
 
 ## Modelo relacion en MYSQL
 ![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
