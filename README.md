@@ -1,9 +1,5 @@
 ## Introducción
 StartFit es una aplicación web que permite a los gimnasios gestionar fácilmente el registro de clientes y sus membresías. Su objetivo es simplificar la administración de usuarios, permitiendo agregar, buscar, actualizar o eliminar clientes y asignarles un plan de membresía con precios definidos de forma automática.
-## Introducción
-StartFit es una aplicación web que permite a los gimnasios gestionar fácilmente el registro de clientes y sus membresías. Su objetivo es simplificar la administración de usuarios, permitiendo agregar, buscar, actualizar o eliminar clientes y asignarles un plan de membresía con precios definidos de forma automática.
-## Introducción
-StartFit es una aplicación web que permite a los gimnasios gestionar fácilmente el registro de clientes y sus membresías. Su objetivo es simplificar la administración de usuarios, permitiendo agregar, buscar, actualizar o eliminar clientes y asignarles un plan de membresía con precios definidos de forma automática.
 
 ## Propósito
 El propósito de StartFit es centralizar y automatizar el proceso de gestión de clientes en gimnasios, vinculando a cada usuario con un tipo de membresía que determine su precio, para optimizar el control de inscripciones y facilitar las tareas administrativas.
