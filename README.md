@@ -32,6 +32,12 @@ StartFit permite digitalizar y centralizar el control de clientes en un gimnasio
 - Eliminar registros de clientes.
 - Calcular automáticamente el precio de acuerdo con el tipo de membresía seleccionada.
 
+## Requerimientos no funcionales:
+- Interfaz clara y fácil de usar.
+- Seguridad en el acceso y almacenamiento de datos.
+- Rapidez en el acceso a los registros.
+- Compatibilidad con dispositivos móviles y escritorio.
+
 ### Funcionalidades Clave
 
 1. **Registro de Clientes**  
