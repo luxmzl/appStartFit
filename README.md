@@ -1,4 +1,4 @@
-# appGymHub
+# STARTFIT
 Aplicación de membresía de gimnasio
 # StartFit
 ## Introducción
