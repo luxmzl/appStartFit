@@ -75,7 +75,7 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 ![Image2](https://github.com/luxmzl/appStartFit/blob/main/script.png)
 
 
-
+[Abrir el script](https://github.com/luxmzl/appGymHub/blob/main/EXAMEN%20ABP%20GYMHUB%20(1).sql)
 
 
 
