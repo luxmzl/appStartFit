@@ -72,7 +72,8 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 2. **Membresía**: Esta tabla contiene los planes de membresía adquiridos por los clientes.
 
 ## Script del modelo físico: Archivo SQL con las sentencias para crear las tablas y relaciones en MySQL. 
-[Abrir el script](https://github.com/luxmzl/appGymHub/blob/main/EXAMEN%20ABP%20GYMHUB%20(1).sql)
+![Image2](https://github.com/luxmzl/appStartFit/blob/main/script.png)
+
 
 
 
