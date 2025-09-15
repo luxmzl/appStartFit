@@ -1,4 +1,4 @@
-## Introducción
+<img width="285" height="414" alt="image" src="https://github.com/user-attachments/assets/c386572d-dc01-46fa-899f-d35763b44668" />## Introducción
 StartFit es una aplicación web que permite a los gimnasios gestionar fácilmente el registro de clientes y sus membresías. Su objetivo principal es simplificar la administración de usuarios, permitiendo agregar, buscar, actualizar o eliminar clientes y asignarles un plan de membresía con precios definidos de forma automática.
 
 ## Propósito
@@ -62,9 +62,9 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 - contacto
 - id_membresia (FK)
 2. **membresias**
--  id_membresia (PK)
--  tipo (Mensual, Trimestral, Anual)
+-  tipo (Mensual, Trimestral, Anual) (PK)
 -  precio
+
 
 ![image](https://github.com/luxmzl/appGymHub/blob/main/examen.PNG)
 
