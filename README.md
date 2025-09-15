@@ -65,7 +65,7 @@ Con esta implementación, los gimnasios podrán gestionar de manera eficiente la
 -  tipo (Mensual, Trimestral, Anual) (PK)
 -  precio
 
-![Image]https://github.com/luxmzl/appStartFit/blob/main/ModeloRelacionalGimnasio.png
+
 
 ## Tablas Principales
 1. **Clientes**: Esta tabla almacena la información personal de los clientes del gimnasio, incluyendo sus datos de contacto.
